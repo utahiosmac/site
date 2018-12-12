@@ -5,3 +5,5 @@ The Utah iOS and Mac Developers Slack group is intended only for Cocoa developer
 If you are interested in attending one of our in-person meetups, please visit our [Meetings](meetings) page.
 
 If you’d like to request access to the Slack group, please [go here for more information](join).
+
+![Utah landscape](resources/utah.jpg)
