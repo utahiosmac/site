@@ -10,7 +10,7 @@ The Utah Valley CocoaHeads is a community of programmers, designers, and entrepr
 
 - Time: Third Thursday of each month, 7pm
 - Location: Lehi
-- [Click here for meeting schedule and more information][meetup])
+- [Click here for meeting schedule and more information][meetup]
 
 ## CocoaHeads SLC
 
