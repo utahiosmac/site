@@ -23,7 +23,7 @@
         
         <div id="main-menu">
           <ul>
-          {% assign menu_pages = site.pages | where: "menu-title" %}
+          {% assign menu_pages = site.pages %}
           {% for page in menu_pages %}
             <li><a href="{{ page.url | relative_url }}" alt="{{ page.title }}">{{ page.menu-title }}</a></li>
           {% endfor %}
