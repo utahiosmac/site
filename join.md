@@ -1,10 +1,10 @@
 ---
-menu-title: Join
+menu-title: Slack
 ---
 
 # Join the Slack Group
 
-The Utah iOS and Mac Developers Slack group is intended only for Cocoa developers residing in Utah. If you do not reside in Utah and are not an iOS/Mac developer, we encourage you to find a more appropriate group for your locale and interests. In general, this Slack group is not a place to recruit developers to come work for you.
+The Slack group is intended only for Cocoa developers residing in Utah.
 
 If you meet these criteria, please send an email to `admin` at `utahdevelopers` dot `org` and provide the following information:
 
@@ -14,3 +14,5 @@ If you meet these criteria, please send an email to `admin` at `utahdevelopers` 
 - Your employer
 - Who you might know that's already in the group
 - Any iOS/macOS apps you work on
+
+If you do not reside in Utah or are not an iOS/Mac developer, we encourage you to find a more appropriate group for your locale and interests. For example our [meetings](/meetings) are open to all.
