@@ -23,9 +23,11 @@
         
         <div id="main-menu">
           <ul>
-          {% assign menu_pages = site.pages | sort: "menu-title" %}
-          {% for page in menu_pages %}
-            <li><a href="{{ page.url | relative_url }}" alt="{{ page.title }}">{{ page.menu-title }}</a></li>
+          {% assign sorted_pages = site.pages | sort: "menu-title" %}
+          {% for page in sorted_pages %}
+            {% if page.menu-title %}
+              <li><a href="{{ page.url | relative_url }}" alt="{{ page.title }}">{{ page.menu-title }}</a></li>
+            {% endif %}
           {% endfor %}
           </ul>
         </div>
