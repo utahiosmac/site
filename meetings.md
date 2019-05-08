@@ -1,3 +1,7 @@
+---
+menu-title: Meetings
+---
+
 # Meetings
 
 Utah Developers meet up regularly to learn and teach. Our meetings are free and open to all.

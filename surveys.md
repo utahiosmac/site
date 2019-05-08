@@ -1,3 +1,7 @@
+---
+menu-title: Surveys
+---
+
 # Semi-Annual Developer Survey
 
 Every six months, the Utah iOS and Mac Developers group conducts a survey of its members to collect information on current standards of workplace environment, salary, and benefits. Summaries of the survey can be found here:
