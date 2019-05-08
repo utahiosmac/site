@@ -18,12 +18,12 @@
         {% if site.logo %}
           <a href="{{ "/" | absolute_url }}" alt="{{ site.title | default: site.github.repository_name }}">
             <img src="{{site.logo | relative_url}}" alt="Logo" />
-          <a/>
+          </a>
         {% endif %}
         
         <div id="main-menu">
           <ul>
-          {% assign menu_pages = site.pages %}
+          {% assign menu_pages = site.pages | where: "menu-title" %}
           {% for page in menu_pages %}
             <li><a href="{{ page.url | relative_url }}" alt="{{ page.title }}">{{ page.menu-title }}</a></li>
           {% endfor %}
