@@ -28,6 +28,8 @@
             {% if this_page.menu-title %}
               {% if this_page.url == page.url %}
                 {% assign this_class = "current" %}
+              {% else %}
+                {% assign this_class = "" %}
               {% endif %}
               <li><a href="{{ this_page.url | relative_url }}" alt="{{ this_page.title }}" class="{{ this_class }}">{{ this_page.menu-title }}</a></li>
             {% endif %}
