@@ -29,7 +29,7 @@ We discuss all things related to iOS and Mac OS X software development (includin
 
 A casual meetup to meet with others interested in iOS and work on projects
 
-- Time: Thursdays at 7pm (except when it would conflict with Utah Valley CocoaHeads)
+- Time: Thursdays at 7pm (except when it would conflict with **Lehi CocoaHeads**)
 - Location: Kiln ([2701 N Thanksgiving Way #100, Lehi UT 84043][kiln])
 
 [meetup]: https://www.meetup.com/Utah-iOS-and-Mac-Developers/
