@@ -15,4 +15,4 @@ If you meet these criteria, please send an email to `admin` at `utahdevelopers` 
 - Who you might know that's already in the group
 - Any iOS/macOS apps you work on
 
-If you do not reside in Utah or are not an iOS/Mac developer, we encourage you to find a more appropriate group for your locale and interests. For example our [meetings](meetings) are open to all.
+If you do not reside in Utah or are not an iOS/Mac developer, we encourage you to find a more appropriate group for your locale and interests. For example our [meetings](/meetings) are open to all.
