@@ -35,4 +35,4 @@ A casual meetup to meet with others interested in iOS and work on projects
 [meetup]: https://www.meetup.com/Utah-iOS-and-Mac-Developers/
 [octanner]: https://maps.apple.com/?address=1975%20S%20Main%20St,%20Salt%20Lake%20City,%20UT%2084115,%20United%20States&ll=40.7273,-111.8909&t=m
 [slcch]: https://www.facebook.com/groups/127783123953808/
-[kiln]:https://maps.apple.com/?address=4100%20W%20Cabelas%20Blvd,%20Unit%20300,%20Lehi,%20UT%20%2084043,%20United%20States&ll=40.4389,-111.8925&t=m
+[devmtn]:https://maps.apple.com/?address=4100%20W%20Cabelas%20Blvd,%20Unit%20300,%20Lehi,%20UT%20%2084043,%20United%20States&ll=40.4389,-111.8925&t=m
