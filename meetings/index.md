@@ -30,9 +30,9 @@ We discuss all things related to iOS and Mac OS X software development (includin
 A casual meetup to meet with others interested in iOS and work on projects
 
 - Time: Thursdays at 7pm (except when it would conflict with **Lehi CocoaHeads**)
-- Location: Kiln ([2701 N Thanksgiving Way #100, Lehi UT 84043][kiln])
+- Location: DevMountain ([4100 W Cabelas Blvd #300, Lehi UT 84043][devmtn])
 
 [meetup]: https://www.meetup.com/Utah-iOS-and-Mac-Developers/
-[octanner]: https://maps.apple.com/?address=15%20S%20State%20St,%20Salt%20Lake%20City,%20UT%2084111,%20United%20States&auid=4323771451953045936&ll=40.768793,-111.887743&lsp=9902&q=O.C.%20Tanner%20Utah%27s%20Jeweler&t=m
+[octanner]: https://maps.apple.com/?address=1975%20S%20Main%20St,%20Salt%20Lake%20City,%20UT%2084115,%20United%20States&ll=40.7273,-111.8909&t=m
 [slcch]: https://www.facebook.com/groups/127783123953808/
-[kiln]:https://maps.apple.com/?address=2701%20N%20Thanksgiving%20Way,%20Unit%20100,%20Lehi,%20UT%20%2084043,%20United%20States&ll=40.421205,-111.881616&q=2701%20N%20Thanksgiving%20Way&_ext=EiQpNMsK21Y1REAxEFKbDs34W8A5sqAwN302REBBdv++ugv4W8A%3D&t=m
+[kiln]:https://maps.apple.com/?address=4100%20W%20Cabelas%20Blvd,%20Unit%20300,%20Lehi,%20UT%20%2084043,%20United%20States&ll=40.4389,-111.8925&t=m
