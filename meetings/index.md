@@ -13,7 +13,7 @@ Information about the next upcoming meetups can always be found on meetup.com: [
 The Utah Valley CocoaHeads is a community of programmers, designers, and entrepreneurs interested in all things Apple (iPhone, iPad, Mac, etc…). The CocoaHeads provides great opportunities to learn new skills and network with other Cocoa professionals.
 
 - Time: Third Thursday of each month, 7pm
-- Location: Lehi
+- Location: DevMountain ([4100 W Cabelas Blvd #300, Lehi UT 84043][devmtn])
 - [Click here for meeting schedule and more information][meetup]
 
 ## CocoaHeads SLC
