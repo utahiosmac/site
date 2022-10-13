@@ -6,7 +6,7 @@ menu-title: Surveys
 
 Every six months (mostly; thanks COVID…), the Utah iOS and Mac Developers group conducts a survey of its members to collect information on current standards of workplace environment, salary, and benefits. Summaries of past surveys can be found here:
 
-- [Spring 2021]([http://josephslinker.com/developer-survey/2021-6/](https://jslinker.github.io/developer-survey/2021-6/)
+- [Spring 2021](http://josephslinker.com/developer-survey/2021-6/)
 - [Spring 2019](https://iphoneramble.blogspot.com/2019/05/utah-ios-and-mac-developer-survey.html)
 - [Fall 2018](http://iphoneramble.blogspot.com/2018/10/utah-ios-and-mac-developer-survey-fall.html)
 - [Spring 2018](http://iphoneramble.blogspot.com/2018/04/utah-ios-and-mac-developer-survey.html)
