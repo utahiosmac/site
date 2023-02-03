@@ -21,7 +21,7 @@ The Utah Valley CocoaHeads is a community of programmers, designers, and entrepr
 We discuss all things related to iOS and Mac OS X software development (including business topics).
 
 - Time: First Tuesday of each month, 7pm
-- Location: Cricut ([10855 S River Front Pkwy, South Jordan, UT  84095][cricut]), south-west entrance
+- Location: Cricut ([10855 S River Front Pkwy, South Jordan, UT  84095][cricut])
 - [More information is available on Meetup][meetup]
 
 ## NSCoders, Lehi
