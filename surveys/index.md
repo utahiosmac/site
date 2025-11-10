@@ -6,6 +6,7 @@ menu-title: Surveys
 
 Every six months (mostly; thanks COVID…), the Utah iOS and Mac Developers group conducts a survey of its members to collect information on current standards of workplace environment, salary, and benefits. Summaries of past surveys can be found here:
 
+- [Summer 2025](2025-summer)
 - [Fall 2023](2023-fall)
 - [Spring 2021](2021-spring)
 - [Spring 2019](2019-spring)
