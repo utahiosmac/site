@@ -16,12 +16,12 @@ The Utah Valley CocoaHeads is a community of programmers, designers, and entrepr
 - Location: Moutainland Technical College ([2301 N Ashton Blvd Lehi, UT  84043][mtec]) (We meet in the Trades & Technology building *behind* the main building; enter along 2300 W)
 - [More information is available on Meetup][meetup]
 
-## CocoaHeads SLC
+## SLC CocoaHeads
 
 We discuss all things related to iOS and Mac OS X software development (including business topics).
 
 - Time: First Tuesday of each month, 7pm
-- Location: Luma Touch ([1106 E South Union Ave, Suite 2, Midvale, UT 84047][luma-touch])
+- Location: Salt Mine Productive Workspace ([7984 S 1300 E, Sandy, UT 84094][luma-touch]) (Enter through the third door on the west side of the building. Knock to be let in.)
 - [More information is available on Meetup][meetup]
 
 ## NSCoders, Lehi
